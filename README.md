@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ruhil%20Patel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Graduate%20%7C%20Software%20Engineer%20%7C%20AWS%20Certified&descAlignY=52&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ruhil%20Patel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Graduate%20%7C%20Software%20Engineer%20%7C%20Data%20Science%20%7C%20IT%20%7C%20AWS%20Certified&descAlignY=52&descAlign=50" width="100%"/>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=CS+Graduate+%40+Rutgers+University+(Summa+Cum+Laude);Full-Stack+%26+ML+Engineer;AWS+Certified+Cloud+Practitioner;AI+Trainer+%7C+IT+Consultant+%7C+Open+to+Work)](https://git.io/typing-svg)
 
@@ -79,6 +80,7 @@ I'm a **Computer Science graduate from Rutgers University–New Brunswick** (Sum
 | Role | Organization | Period |
 |---|---|---|
 | AI Trainer (Generalist) | Contract via Handshake | 2025 – Present |
+| FC Consultant | Amazon | 2025 - Present | 
 | IT Consultant | Rutgers OIT | 2024 – 2026 |
 | Shift Leader | Dunkin' Donuts | 2022 – 2024 |
 
@@ -90,7 +92,7 @@ I'm a **Computer Science graduate from Rutgers University–New Brunswick** (Sum
 AI-powered recipe recommendation system using computer vision to identify pantry ingredients and suggest meals.
 `Python` `TensorFlow` `Flask` `MongoDB`
 
-### 🚆 Railway Booking System
+### 🚆 [Railway Booking System](https://github.com/Ruhil1807/Railway-Booking-System)
 Full-stack ticket reservation platform with MVC architecture, real-time seat management, and role-based access.
 `Java` `MySQL` `MVC`
 
@@ -98,11 +100,11 @@ Full-stack ticket reservation platform with MVC architecture, real-time seat man
 Job board web app with user authentication, advanced filtering, and real-time updates.
 `React` `Node.js` `TypeScript`
 
-### ❤️ Heart Disease Prediction
+### ❤️ [Heart Disease Prediction](https://github.com/Ruhil1807/Heart-Disease-Prediction)
 ML classification model achieving 91% accuracy via feature engineering and ensemble methods.
 `Python` `scikit-learn` `Pandas`
 
-### 🗺️ Crime Dashboard
+### 🗺️ [Crime Dashboard](https://github.com/Ruhil1807/Crime-Activity-Report)
 Interactive geospatial analytics dashboard for public crime data visualization.
 `Python` `SQL` `MongoDB`
 
