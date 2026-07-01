@@ -89,6 +89,18 @@ I'm a **Computer Science graduate from Rutgers University–New Brunswick** (Sum
 
 ## 🚀 Featured Projects
 
+### 🤖 [CommitCoach](https://github.com/Ruhil1807/CommitCoach)
+AI-powered code-review tool that analyzes diffs and pull requests to speed up developer feedback; React front end, Express/PostgreSQL backend.
+`React` `Express` `PostgreSQL` `Anthropic API`
+
+### 🔗 [URL Shortner](https://github.com/Ruhil1807/url-shortener)
+Scalable shortening service with Redis caching for low-latency redirects and Dockerized PostgreSQL persistence.
+`Node.js` `TypeScript` `PostgreSQL` `Docker`
+
+### 🐚 [MiniShell](https://github.com/Ruhil1807/minishell)
+Unix shell with command parsing, piping, redirection, and process management via fork/exec.
+`C` `Linux` 
+
 ### 🥘 [SmartPantry+](https://github.com/Ruhil1807/SmartPantry-Plus)
 AI-powered recipe recommendation system using computer vision to identify pantry ingredients and suggest meals.
 `Python` `TensorFlow` `Flask` `MongoDB`
