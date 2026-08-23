@@ -81,10 +81,10 @@ I'm a **Computer Science graduate from Rutgers University–New Brunswick** (Sum
 
 | Role | Organization | Period |
 |---|---|---|
-| AI Trainer (Generalist) | Contract via Handshake | 2025 – Present |
-| FC Associate | Amazon | 2025 - Present | 
-| IT Consultant | Rutgers OIT | 2024 – 2026 |
-| Shift Leader | Dunkin' Donuts | 2022 – 2024 |
+| FC Associate | Amazon | Apr 2025 – Present | 
+| AI Trainer (Generalist) | Contract via Handshake | Dec 2025 – Aug 2026 |
+| IT Consultant | Rutgers OIT | Oct 2024 – Sep 2025 |
+| Shift Leader | Dunkin' Donuts | Jul 2022 – May 2025 |
 
 ---
 
