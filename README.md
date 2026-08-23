@@ -70,7 +70,7 @@ I'm a **Computer Science graduate from Rutgers University–New Brunswick** (Sum
 | **AWS Certified Cloud Practitioner** | Amazon Web Services |
 | AWS Generative AI Foundations | Amazon Web Services |
 | AI & Career Empowerment | UMD |
-| Google Cybersecurity Certificate | Google |
+| Google Cybersecurity Certificate | Coursera |
 | JPMorgan Chase SWE Virtual Experience | Forage |
 
 </div>
