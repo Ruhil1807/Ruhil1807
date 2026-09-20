@@ -81,6 +81,7 @@ I'm a **Computer Science graduate from Rutgers University–New Brunswick** (Sum
 
 | Role | Organization | Period |
 |---|---|---|
+| IoT Engineer | Cognizant | Sept 2026 – Present | 
 | FC Associate | Amazon | Apr 2025 – Present | 
 | AI Trainer (Generalist) | Contract via Handshake | Dec 2025 – Aug 2026 |
 | IT Consultant | Rutgers OIT | Oct 2024 – Sep 2025 |
