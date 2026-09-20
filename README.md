@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-I'm a **Computer Science graduate from Rutgers University–New Brunswick** (Summa Cum Laude, May 2026), based in North Brunswick, NJ. I build full-stack web apps, ML pipelines, and cloud-native tools. I'm currently seeking roles in software engineering, data engineering, IT, and cloud infrastructure.
+I'm a **Computer Science graduate from Rutgers University–New Brunswick** (Summa Cum Laude, May 2026), based in North Brunswick, NJ. I build full-stack web apps, ML pipelines, and cloud-native tools. I’m currently working as an IoT Engineer at Cognizant, contributing to the development and deployment of IoT technologies.
 
 - 📍 **North Brunswick, NJ, USA** 🇺🇸
 - 🎓 **B.S. Computer Science** — Rutgers University–New Brunswick, *Summa Cum Laude* (May 2026)
