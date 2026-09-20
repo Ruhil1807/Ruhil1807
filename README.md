@@ -16,7 +16,7 @@ I'm a **Computer Science graduate from Rutgers University–New Brunswick** (Sum
 - 📍 **North Brunswick, NJ, USA** 🇺🇸
 - 🎓 **B.S. Computer Science** — Rutgers University–New Brunswick, *Summa Cum Laude* (May 2026)
 - 🏫 **A.S.** — Middlesex County College, *Phi Theta Kappa* honors (August 2024)
-- 💼 **AI Trainer (Generalist)** @ contract via Handshake · **IT Consultant** @ Rutgers OIT
+- 💼 **IoT Engineer** @ Cognizant
 - ☁️ **AWS Certified Cloud Practitioner**
 - 💬 Fluent in **English**, **Hindi**, and **Gujarati**
 - 🌐 Portfolio: [ruhil1807.github.io](https://ruhil1807.github.io)
